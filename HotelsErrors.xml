@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.4">
+    <Name>Hilton Garden Inn Phoenix Downtown</Name>
+    <Phone>(602) 343-0006</Phone>
+    <Address>
+      <Number>15 E</Number>
+      <Street>Monroe St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Marriott Phoenix Airport</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1101 N</Number>
+      <Street>44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.6">
+    <Name>Hyatt Regency Phoenix</Name>
+    <Phone>(602) 252-1234</Phone>
+    <Phone>(800) 233-1234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>122 N</Number>
+      <Street>2nd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Hotel>
+
+  <Hotel>
+    <Name>Sheraton Phoenix Downtown</Name>
+    <Name>Duplicate Sheraton Name</Name>
+    <Phone>(602) 262-2500</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>340 N</Number>
+      <Street>3rd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  
+  </Hotel>
