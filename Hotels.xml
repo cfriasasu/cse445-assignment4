@@ -76,7 +76,7 @@
     </Address>
   </Hotel>
   
-  <Hotel Rating="4.5">
+  <Hotel>
     <Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
     <Phone>(602) 955-6600</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -101,7 +101,7 @@
     </Address>
   </Hotel>
   
-  <Hotel Rating="4.1">
+  <Hotel>
     <Name>Best Western Plus Tempe by the Mall</Name>
     <Phone>(480) 839-1411</Phone>
     <Address NearestAirport="Sky Harbor">
@@ -125,7 +125,7 @@
     </Address>
   </Hotel>
   
-  <Hotel Rating="4.3">
+  <Hotel>
     <Name>Aloft Tempe</Name>
     <Phone>(480) 621-3300</Phone>
     <Address NearestAirport="Sky Harbor">
